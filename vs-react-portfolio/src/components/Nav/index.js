@@ -18,10 +18,7 @@ function Nav(props) {
     <header className="flex-row px-1">
       <h2>
         <a data-testid="link" href="/">
-          <span role=" " aria-label=" ">
-            {" "}
-          
-          </span>{" "}
+        
           Vanessa Sylverain
         </a>
       </h2>
